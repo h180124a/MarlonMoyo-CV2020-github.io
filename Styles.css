@@ -1,0 +1,26 @@
+div .main {
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+    padding-bottom: 15px;
+    float: inline-end;
+    background-color: lightsalmon;
+    box-shadow: 10px 10px 5px brown;
+}
+
+div #summary {
+    background-color: darkolivegreen;
+}
+
+div #profexp {
+    background-color: brown;
+}
+
+div #skill {
+    background-color: blueviolet;
+}
+
+div #ref {
+    background-color: whitesmoke;
+}
