@@ -24,3 +24,10 @@ div #skill {
 div #ref {
     background-color: whitesmoke;
 }
+
+button {
+    align-self: left;
+    height: 36px;
+    width: 166px;
+    box-shadow: blue;
+}
